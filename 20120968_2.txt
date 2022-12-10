@@ -1,0 +1,9 @@
+delete from table customer
+delete from table service
+delete from table package
+delete from table location
+delete from table shipment
+delete from table tracking
+delete from table bill
+delete from table pays
+drop 2ndproject
